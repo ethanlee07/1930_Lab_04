@@ -1,2 +1,6 @@
 "hello" 
+HEAD
 taryn was here oct9 
+XDXD 
+Bryan was here 
+>>>>>>> 042252b58026e4ff952cadf5ed1ed712c308ce78
