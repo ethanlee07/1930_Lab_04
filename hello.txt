@@ -1,7 +1,10 @@
 "hello" 
-<<<<<<< HEAD
+HEAD
+HEAD
 ethan was here 
-=======
+HEAD
+taryn was here oct9 
+b720dc54396dcf577210170ceba808b05bab0082
 XDXD 
 Bryan was here 
->>>>>>> 042252b58026e4ff952cadf5ed1ed712c308ce78
+042252b58026e4ff952cadf5ed1ed712c308ce78
